@@ -5,3 +5,5 @@ module.exports = {
 		console.log(`${client.user.tag} has logged into Discord.`);
 	},
 };
+
+// { useNewUrlParser: true } to MongoClient.connect.
